@@ -1,0 +1,87 @@
+Solving SGP( :	7 , 3 , 8 , 
+Maximum tabu length set to:	100
+, Miniumu tabu length set to:	4
+, Maximum Tries:	10000
+, Maximum Stable Tries:	300
+
+1587640585 INFO tabu : New best sgp (40) found
+1587640585 INFO tabu : New best sgp (36) found
+1587640585 INFO tabu : New best sgp (32) found
+1587640585 INFO tabu : New best sgp (29) found
+1587640585 INFO tabu : New best sgp (26) found
+1587640585 INFO tabu : New best sgp (23) found
+1587640585 INFO tabu : New best sgp (21) found
+1587640585 INFO tabu : New best sgp (19) found
+1587640585 INFO tabu : New best sgp (17) found
+1587640585 INFO tabu : New best sgp (15) found
+1587640585 INFO tabu : New best sgp (14) found
+1587640585 INFO tabu : New best sgp (13) found
+1587640585 INFO tabu : New best sgp (11) found
+1587640585 INFO tabu : New best sgp (10) found
+1587640585 INFO tabu : New best sgp (9) found
+1587640585 INFO tabu : New best sgp (8) found
+1587640585 INFO tabu : New best sgp (7) found
+1587640585 INFO tabu : New best sgp (6) found
+1587640585 INFO tabu : New best sgp (5) found
+1587640585 INFO tabu : New best sgp (4) found
+1587640585 INFO tabu : New best sgp (3) found
+1587640585 INFO tabu : New best sgp (2) found
+1587640585 INFO tabu : New best sgp (1) found
+1587640585 INFO tabu : New best sgp (0) found
+   WEEK 1           WEEK 2           WEEK 3           WEEK 4        
+  6 10 15          6  8 14          1  4  5         11 13 18        
+  5 14 17          1  2 10          3 11 15          1 17 20        
+  8 11 16          4 13 17         14 16 18          6  9 16        
+  2  7  9          0  7 18          9 19 20          4  8 12        
+  1 13 19          5  9 11          7  8 10          3  7 19        
+  0  3 12          3 16 20          2 12 17          0 10 14        
+  4 18 20         12 15 19          0  6 13          2  5 15        
+
+   WEEK 5           WEEK 6           WEEK 7           WEEK 8        
+  3  6 17          1  9 15          5 13 20          5  6 18        
+  7 14 20          3 13 14         10 12 16          0 17 19        
+  9 10 18          0  5 16          0  1  8          2 11 14        
+  5  8 19          8 17 18          4  9 14          8 15 20        
+  2 13 16          6  7 12          6 11 19          3  4 10        
+  0  4 15         10 11 20          2  3 18          9 12 13        
+  1 11 12          2  4 19          7 15 17          1  7 16        
+
+
+
+
+
+
+
+
+
+
+CURRENT EVAL = 0
+CONFLICT MATRIX : 
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+   ---------------------------------------------------------------
+ 0|  0  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0
+ 1|  1  0  1  0  1  1  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1
+ 2|  0  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  0
+ 3|  1  0  1  0  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1
+ 4|  1  1  1  1  0  1  0  0  1  1  1  0  1  1  1  1  0  1  1  1  1
+ 5|  1  1  1  0  1  0  1  0  1  1  0  1  0  1  1  1  1  1  1  1  1
+ 6|  1  0  0  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0
+ 7|  1  1  1  1  0  0  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1
+ 8|  1  1  0  0  1  1  1  1  0  0  1  1  1  0  1  1  1  1  1  1  1
+ 9|  0  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1
+10|  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  0  1  0  1
+11|  0  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1
+12|  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  0  1  0
+13|  1  1  1  1  1  1  1  0  0  1  0  1  1  0  1  0  1  1  1  1  1
+14|  1  0  1  1  1  1  1  1  1  1  1  1  0  1  0  0  1  1  1  0  1
+15|  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  0  1  0  1  1
+16|  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  0  0  1  0  1
+17|  1  1  1  1  1  1  1  1  1  0  0  0  1  1  1  1  0  0  1  1  1
+18|  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  0  1
+19|  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  1  0  0  1
+20|  0  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0
+
+
+Tabu search finished
+RUNTIME  = 0.022813 sec.
+ITERATIONS: 33

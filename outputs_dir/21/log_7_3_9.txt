@@ -1,0 +1,98 @@
+Solving SGP( :	7 , 3 , 9 , 
+Maximum tabu length set to:	100
+, Miniumu tabu length set to:	4
+, Maximum Tries:	10000
+, Maximum Stable Tries:	300
+
+1587640585 INFO tabu : New best sgp (53) found
+1587640585 INFO tabu : New best sgp (49) found
+1587640585 INFO tabu : New best sgp (45) found
+1587640585 INFO tabu : New best sgp (42) found
+1587640585 INFO tabu : New best sgp (39) found
+1587640585 INFO tabu : New best sgp (36) found
+1587640585 INFO tabu : New best sgp (33) found
+1587640585 INFO tabu : New best sgp (30) found
+1587640585 INFO tabu : New best sgp (28) found
+1587640585 INFO tabu : New best sgp (26) found
+1587640585 INFO tabu : New best sgp (24) found
+1587640585 INFO tabu : New best sgp (22) found
+1587640585 INFO tabu : New best sgp (21) found
+1587640585 INFO tabu : New best sgp (19) found
+1587640585 INFO tabu : New best sgp (18) found
+1587640585 INFO tabu : New best sgp (17) found
+1587640585 INFO tabu : New best sgp (15) found
+1587640585 INFO tabu : New best sgp (14) found
+1587640585 INFO tabu : New best sgp (12) found
+1587640585 INFO tabu : New best sgp (11) found
+1587640585 INFO tabu : New best sgp (10) found
+1587640585 INFO tabu : New best sgp (9) found
+1587640585 INFO tabu : New best sgp (8) found
+1587640585 INFO tabu : New best sgp (7) found
+1587640585 INFO tabu : New best sgp (6) found
+1587640585 INFO tabu : New best sgp (5) found
+1587640585 INFO tabu : New best sgp (4) found
+1587640586 INFO tabu : New best sgp (3) found
+1587640586 INFO tabu : New best sgp (2) found
+1587640586 INFO tabu : New best sgp (1) found
+1587640586 INFO tabu : MAX STABLE REACHED: iterations: 617
+1587640586 INFO tabu : Best eval reached in iteration: 1
+1587640586 INFO tabu : #1: 1.00, #2: 0.00 , #3: 0.00
+1587640586 INFO tabu : Best eval: 1
+1587640586 INFO tabu : New best sgp (0) found
+   WEEK 1           WEEK 2           WEEK 3           WEEK 4        
+  0 12 19          6 13 18          8  9 16          2 10 14        
+  5  7 16          1  9 10          1  2 12          9 15 18        
+  3  6  9         14 17 19          4  5 11         11 16 19        
+ 14 18 20         12 15 16          3  7 10          1  3 13        
+  2  8 13          5  8 20          0 17 18          5  6 12        
+  1  4 15          2  3  4         13 19 20          0  4 20        
+ 10 11 17          0  7 11          6 14 15          7  8 17        
+
+   WEEK 5           WEEK 6           WEEK 7           WEEK 8        
+  4 14 16          8 12 14          3  5 14          8 11 15        
+ 10 12 20          2  7 18          4  6 17          2  6 16        
+  0 13 15         13 16 17          7  9 13          3 12 17        
+  3  8 18          5 10 15          2 15 20          0  9 14        
+  2  9 11          4  9 19          1  8 19          4 10 13        
+  1  5 17          3 11 20         11 12 18          1  7 20        
+  6  7 19          0  1  6          0 10 16          5 18 19        
+
+   WEEK 9        
+ 11 13 14        
+  1 16 18        
+  0  2  5        
+  4  7 12        
+  9 17 20        
+  6  8 10        
+  3 15 19        
+
+CURRENT EVAL = 0
+CONFLICT MATRIX : 
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+   ---------------------------------------------------------------
+ 0|  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1
+ 1|  1  0  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1
+ 2|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1
+ 3|  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+ 4|  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1
+ 5|  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1
+ 6|  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0
+ 7|  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1
+ 8|  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1
+ 9|  1  1  1  1  1  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1
+10|  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  1
+11|  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1
+12|  1  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1
+13|  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1
+14|  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1
+15|  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  1  1
+16|  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0
+17|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1
+18|  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1
+19|  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1
+20|  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  0
+
+
+Tabu search finished
+RUNTIME  = 0.360251 sec.
+ITERATIONS: 903

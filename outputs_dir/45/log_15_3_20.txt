@@ -1,0 +1,427 @@
+Solving SGP( :	15 , 3 , 20 , 
+Maximum tabu length set to:	100
+, Miniumu tabu length set to:	4
+, Maximum Tries:	10000
+, Maximum Stable Tries:	300
+
+1587640935 INFO tabu : New best sgp (304) found
+1587640936 INFO tabu : New best sgp (300) found
+1587640936 INFO tabu : New best sgp (296) found
+1587640936 INFO tabu : New best sgp (292) found
+1587640936 INFO tabu : New best sgp (288) found
+1587640936 INFO tabu : New best sgp (284) found
+1587640936 INFO tabu : New best sgp (280) found
+1587640936 INFO tabu : New best sgp (276) found
+1587640936 INFO tabu : New best sgp (272) found
+1587640936 INFO tabu : New best sgp (268) found
+1587640936 INFO tabu : New best sgp (264) found
+1587640936 INFO tabu : New best sgp (260) found
+1587640936 INFO tabu : New best sgp (256) found
+1587640936 INFO tabu : New best sgp (252) found
+1587640936 INFO tabu : New best sgp (248) found
+1587640936 INFO tabu : New best sgp (244) found
+1587640936 INFO tabu : New best sgp (240) found
+1587640936 INFO tabu : New best sgp (236) found
+1587640936 INFO tabu : New best sgp (232) found
+1587640936 INFO tabu : New best sgp (228) found
+1587640936 INFO tabu : New best sgp (224) found
+1587640936 INFO tabu : New best sgp (220) found
+1587640936 INFO tabu : New best sgp (216) found
+1587640936 INFO tabu : New best sgp (212) found
+1587640936 INFO tabu : New best sgp (209) found
+1587640936 INFO tabu : New best sgp (206) found
+1587640936 INFO tabu : New best sgp (203) found
+1587640936 INFO tabu : New best sgp (200) found
+1587640936 INFO tabu : New best sgp (197) found
+1587640936 INFO tabu : New best sgp (193) found
+1587640936 INFO tabu : New best sgp (190) found
+1587640936 INFO tabu : New best sgp (187) found
+1587640936 INFO tabu : New best sgp (184) found
+1587640936 INFO tabu : New best sgp (181) found
+1587640936 INFO tabu : New best sgp (178) found
+1587640936 INFO tabu : New best sgp (175) found
+1587640936 INFO tabu : New best sgp (172) found
+1587640936 INFO tabu : New best sgp (169) found
+1587640936 INFO tabu : New best sgp (166) found
+1587640936 INFO tabu : New best sgp (163) found
+1587640936 INFO tabu : New best sgp (160) found
+1587640936 INFO tabu : New best sgp (157) found
+1587640936 INFO tabu : New best sgp (154) found
+1587640936 INFO tabu : New best sgp (151) found
+1587640936 INFO tabu : New best sgp (148) found
+1587640936 INFO tabu : New best sgp (145) found
+1587640936 INFO tabu : New best sgp (142) found
+1587640936 INFO tabu : New best sgp (139) found
+1587640936 INFO tabu : New best sgp (136) found
+1587640936 INFO tabu : New best sgp (132) found
+1587640936 INFO tabu : New best sgp (129) found
+1587640936 INFO tabu : New best sgp (127) found
+1587640936 INFO tabu : New best sgp (125) found
+1587640936 INFO tabu : New best sgp (122) found
+1587640936 INFO tabu : New best sgp (120) found
+1587640936 INFO tabu : New best sgp (118) found
+1587640936 INFO tabu : New best sgp (116) found
+1587640936 INFO tabu : New best sgp (114) found
+1587640936 INFO tabu : New best sgp (112) found
+1587640936 INFO tabu : New best sgp (110) found
+1587640936 INFO tabu : New best sgp (108) found
+1587640936 INFO tabu : New best sgp (105) found
+1587640936 INFO tabu : New best sgp (103) found
+1587640936 INFO tabu : New best sgp (101) found
+1587640936 INFO tabu : New best sgp (99) found
+1587640936 INFO tabu : New best sgp (97) found
+1587640936 INFO tabu : New best sgp (95) found
+1587640936 INFO tabu : New best sgp (93) found
+1587640936 INFO tabu : New best sgp (91) found
+1587640936 INFO tabu : New best sgp (89) found
+1587640936 INFO tabu : New best sgp (87) found
+1587640936 INFO tabu : New best sgp (85) found
+1587640936 INFO tabu : New best sgp (83) found
+1587640936 INFO tabu : New best sgp (81) found
+1587640936 INFO tabu : New best sgp (79) found
+1587640936 INFO tabu : New best sgp (77) found
+1587640936 INFO tabu : New best sgp (75) found
+1587640936 INFO tabu : New best sgp (73) found
+1587640936 INFO tabu : New best sgp (71) found
+1587640937 INFO tabu : New best sgp (70) found
+1587640937 INFO tabu : New best sgp (69) found
+1587640937 INFO tabu : New best sgp (68) found
+1587640937 INFO tabu : New best sgp (67) found
+1587640937 INFO tabu : New best sgp (66) found
+1587640937 INFO tabu : New best sgp (65) found
+1587640937 INFO tabu : New best sgp (64) found
+1587640937 INFO tabu : New best sgp (63) found
+1587640937 INFO tabu : New best sgp (61) found
+1587640937 INFO tabu : New best sgp (59) found
+1587640937 INFO tabu : New best sgp (58) found
+1587640937 INFO tabu : New best sgp (57) found
+1587640937 INFO tabu : New best sgp (56) found
+1587640937 INFO tabu : New best sgp (55) found
+1587640937 INFO tabu : New best sgp (54) found
+1587640937 INFO tabu : New best sgp (53) found
+1587640937 INFO tabu : New best sgp (52) found
+1587640937 INFO tabu : New best sgp (51) found
+1587640937 INFO tabu : New best sgp (50) found
+1587640937 INFO tabu : New best sgp (48) found
+1587640937 INFO tabu : New best sgp (47) found
+1587640937 INFO tabu : New best sgp (46) found
+1587640937 INFO tabu : New best sgp (45) found
+1587640937 INFO tabu : New best sgp (44) found
+1587640937 INFO tabu : New best sgp (43) found
+1587640937 INFO tabu : New best sgp (42) found
+1587640937 INFO tabu : New best sgp (41) found
+1587640937 INFO tabu : New best sgp (40) found
+1587640937 INFO tabu : New best sgp (39) found
+1587640937 INFO tabu : New best sgp (38) found
+1587640937 INFO tabu : New best sgp (37) found
+1587640937 INFO tabu : New best sgp (36) found
+1587640937 INFO tabu : New best sgp (35) found
+1587640937 INFO tabu : New best sgp (34) found
+1587640937 INFO tabu : New best sgp (33) found
+1587640937 INFO tabu : New best sgp (32) found
+1587640937 INFO tabu : New best sgp (31) found
+1587640937 INFO tabu : New best sgp (30) found
+1587640937 INFO tabu : New best sgp (29) found
+1587640937 INFO tabu : New best sgp (28) found
+1587640937 INFO tabu : New best sgp (27) found
+1587640937 INFO tabu : New best sgp (26) found
+1587640937 INFO tabu : New best sgp (25) found
+1587640937 INFO tabu : New best sgp (24) found
+1587640937 INFO tabu : New best sgp (23) found
+1587640937 INFO tabu : New best sgp (22) found
+1587640937 INFO tabu : New best sgp (21) found
+1587640937 INFO tabu : New best sgp (20) found
+1587640937 INFO tabu : New best sgp (19) found
+1587640937 INFO tabu : New best sgp (18) found
+1587640937 INFO tabu : New best sgp (17) found
+1587640937 INFO tabu : New best sgp (15) found
+1587640937 INFO tabu : New best sgp (14) found
+1587640937 INFO tabu : New best sgp (13) found
+1587640937 INFO tabu : New best sgp (12) found
+1587640937 INFO tabu : New best sgp (11) found
+1587640937 INFO tabu : New best sgp (10) found
+1587640937 INFO tabu : New best sgp (9) found
+1587640937 INFO tabu : New best sgp (8) found
+1587640937 INFO tabu : New best sgp (7) found
+1587640938 INFO tabu : New best sgp (6) found
+1587640938 INFO tabu : New best sgp (5) found
+1587640938 INFO tabu : MAX STABLE REACHED: iterations: 672
+1587640938 INFO tabu : Best eval reached in iteration: 5
+1587640938 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640938 INFO tabu : Best eval: 5
+1587640940 INFO tabu : MAX STABLE REACHED: iterations: 974
+1587640940 INFO tabu : Best eval reached in iteration: 8
+1587640940 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640940 INFO tabu : Best eval: 5
+1587640942 INFO tabu : MAX STABLE REACHED: iterations: 1276
+1587640942 INFO tabu : Best eval reached in iteration: 7
+1587640942 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640942 INFO tabu : Best eval: 5
+1587640944 INFO tabu : MAX STABLE REACHED: iterations: 1578
+1587640944 INFO tabu : Best eval reached in iteration: 6
+1587640944 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640944 INFO tabu : Best eval: 5
+1587640946 INFO tabu : MAX STABLE REACHED: iterations: 1880
+1587640946 INFO tabu : Best eval reached in iteration: 8
+1587640946 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640946 INFO tabu : Best eval: 5
+1587640947 INFO tabu : MAX STABLE REACHED: iterations: 2182
+1587640947 INFO tabu : Best eval reached in iteration: 10
+1587640947 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640947 INFO tabu : Best eval: 5
+1587640949 INFO tabu : MAX STABLE REACHED: iterations: 2484
+1587640949 INFO tabu : Best eval reached in iteration: 8
+1587640949 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640949 INFO tabu : Best eval: 5
+1587640951 INFO tabu : MAX STABLE REACHED: iterations: 2786
+1587640951 INFO tabu : Best eval reached in iteration: 9
+1587640951 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640951 INFO tabu : Best eval: 5
+1587640953 INFO tabu : MAX STABLE REACHED: iterations: 3088
+1587640953 INFO tabu : Best eval reached in iteration: 8
+1587640953 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640953 INFO tabu : Best eval: 5
+1587640955 INFO tabu : MAX STABLE REACHED: iterations: 3390
+1587640955 INFO tabu : Best eval reached in iteration: 9
+1587640955 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640955 INFO tabu : Best eval: 5
+1587640956 INFO tabu : MAX STABLE REACHED: iterations: 3692
+1587640956 INFO tabu : Best eval reached in iteration: 9
+1587640956 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640956 INFO tabu : Best eval: 5
+1587640959 INFO tabu : MAX STABLE REACHED: iterations: 3994
+1587640959 INFO tabu : Best eval reached in iteration: 11
+1587640959 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640959 INFO tabu : Best eval: 5
+1587640961 INFO tabu : MAX STABLE REACHED: iterations: 4296
+1587640961 INFO tabu : Best eval reached in iteration: 6
+1587640961 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640961 INFO tabu : Best eval: 5
+1587640963 INFO tabu : MAX STABLE REACHED: iterations: 4598
+1587640963 INFO tabu : Best eval reached in iteration: 7
+1587640963 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640963 INFO tabu : Best eval: 5
+1587640965 INFO tabu : MAX STABLE REACHED: iterations: 4900
+1587640965 INFO tabu : Best eval reached in iteration: 8
+1587640965 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640965 INFO tabu : Best eval: 5
+1587640967 INFO tabu : MAX STABLE REACHED: iterations: 5202
+1587640967 INFO tabu : Best eval reached in iteration: 7
+1587640967 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640967 INFO tabu : Best eval: 5
+1587640969 INFO tabu : MAX STABLE REACHED: iterations: 5504
+1587640969 INFO tabu : Best eval reached in iteration: 7
+1587640969 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640969 INFO tabu : Best eval: 5
+1587640971 INFO tabu : MAX STABLE REACHED: iterations: 5806
+1587640971 INFO tabu : Best eval reached in iteration: 10
+1587640971 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640971 INFO tabu : Best eval: 5
+1587640972 INFO tabu : MAX STABLE REACHED: iterations: 6108
+1587640972 INFO tabu : Best eval reached in iteration: 6
+1587640972 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640972 INFO tabu : Best eval: 5
+1587640974 INFO tabu : MAX STABLE REACHED: iterations: 6410
+1587640974 INFO tabu : Best eval reached in iteration: 7
+1587640974 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640974 INFO tabu : Best eval: 5
+1587640976 INFO tabu : MAX STABLE REACHED: iterations: 6712
+1587640976 INFO tabu : Best eval reached in iteration: 8
+1587640976 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640976 INFO tabu : Best eval: 5
+1587640978 INFO tabu : MAX STABLE REACHED: iterations: 7014
+1587640978 INFO tabu : Best eval reached in iteration: 7
+1587640978 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640978 INFO tabu : Best eval: 5
+1587640980 INFO tabu : MAX STABLE REACHED: iterations: 7316
+1587640980 INFO tabu : Best eval reached in iteration: 7
+1587640980 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640980 INFO tabu : Best eval: 5
+1587640981 INFO tabu : MAX STABLE REACHED: iterations: 7618
+1587640981 INFO tabu : Best eval reached in iteration: 11
+1587640981 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640981 INFO tabu : Best eval: 5
+1587640983 INFO tabu : MAX STABLE REACHED: iterations: 7920
+1587640983 INFO tabu : Best eval reached in iteration: 8
+1587640983 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640983 INFO tabu : Best eval: 5
+1587640985 INFO tabu : MAX STABLE REACHED: iterations: 8222
+1587640985 INFO tabu : Best eval reached in iteration: 7
+1587640985 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640985 INFO tabu : Best eval: 5
+1587640987 INFO tabu : MAX STABLE REACHED: iterations: 8524
+1587640987 INFO tabu : Best eval reached in iteration: 7
+1587640987 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640987 INFO tabu : Best eval: 5
+1587640989 INFO tabu : MAX STABLE REACHED: iterations: 8826
+1587640989 INFO tabu : Best eval reached in iteration: 8
+1587640989 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640989 INFO tabu : Best eval: 5
+1587640990 INFO tabu : MAX STABLE REACHED: iterations: 9128
+1587640990 INFO tabu : Best eval reached in iteration: 10
+1587640990 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640990 INFO tabu : Best eval: 5
+1587640992 INFO tabu : MAX STABLE REACHED: iterations: 9430
+1587640992 INFO tabu : Best eval reached in iteration: 8
+1587640992 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640992 INFO tabu : Best eval: 5
+1587640994 INFO tabu : MAX STABLE REACHED: iterations: 9732
+1587640994 INFO tabu : Best eval reached in iteration: 7
+1587640994 INFO tabu : #1: -nan, #2: -nan , #3: -nan
+1587640994 INFO tabu : Best eval: 5
+   WEEK 1           WEEK 2           WEEK 3           WEEK 4        
+  2 19 42          6  7 23          0  8 21          9 15 27        
+  4 35 41         18 37 43         19 31 32         17 28 40        
+ 18 26 34          1 16 40          5 17 18          0 13 44        
+ 23 30 32         12 14 20         14 27 35          7 11 35        
+ 11 21 29          8 34 41          9 22 37          4 25 29        
+ 16 17 44          0 38 42          7 15 29          3  8 18        
+  3 14 22         13 28 35         12 33 39         10 23 33        
+  7 24 31          2  9 26          2  4 28         20 24 43        
+ 15 33 40         36 39 44          1 11 20         14 36 41        
+  6  9 10          5 19 33          6 13 40          2 21 32        
+ 27 38 43         17 21 30          3 23 25          5 16 26        
+  5  8 12          4 22 24         24 41 42          6 12 31        
+ 13 25 39         11 15 25         10 26 36          1 37 38        
+  1 28 36         10 29 31         30 43 44         30 39 42        
+  0 20 37          3 27 32         16 34 38         19 22 34        
+
+   WEEK 5           WEEK 6           WEEK 7           WEEK 8        
+ 19 25 37          2 34 37         15 32 39         16 20 35        
+  9 34 36         35 42 44          9 11 14         12 17 43        
+ 10 18 30         21 26 31          1 10 17         21 33 34        
+  2  7 44         18 25 33          6 29 34          4  7 42        
+ 28 29 43          0  1  3          2 18 24         24 40 44        
+ 11 32 41         16 28 30          4 31 44          8 10 13        
+  1  4 39          4 12 13          3 20 30          0  2 29        
+  6 24 27          6 20 38          0 19 36          1 18 41        
+ 13 17 20          9 19 39          5 27 41          5  9 23        
+  0 16 23         23 40 41         13 33 42          3 15 19        
+  8 31 40          7 32 43         12 21 23         27 31 37        
+  3 21 35          8 22 29         26 35 43         32 36 38        
+ 12 26 42          5 24 36          7 38 40          6 22 26        
+ 14 33 38         10 14 15         22 25 28         14 25 30        
+  5 15 22         11 17 27          8 16 37         11 28 39        
+
+   WEEK 9           WEEK 10           WEEK 11           WEEK 12        
+  3  6 43          9 13 41         22 23 27          4 32 34        
+ 20 33 41          3 31 33          1 33 35          3 16 39        
+ 17 32 37          2 16 36          4  8 26         33 37 44        
+ 22 30 40         15 18 42          0 12 15          1 23 24        
+  5 28 31         24 25 38          9 24 32          7 17 36        
+  7 10 25         29 35 37         16 21 41         15 28 38        
+ 24 34 39         20 23 34         20 29 40         13 18 21        
+ 16 27 29          0  7 28         10 28 44          0  8 43        
+  2 13 14          4  5 30          7 13 34         10 22 35        
+ 23 26 38         11 22 44          5 14 37         25 31 41        
+ 15 21 36         14 26 39         17 31 39          5  6 11        
+  0  4 11          1 19 27          6 18 19         26 27 40        
+ 12 19 35         21 40 43         11 30 36         14 19 29        
+  1  8 42          6  8 17          2  3 38          9 20 42        
+  9 18 44         10 12 32         25 42 43          2 12 30        
+
+   WEEK 13           WEEK 14           WEEK 15           WEEK 16        
+  0  6 30          0 27 34          4 15 20          1 13 29        
+  1 26 44          7 19 21         33 36 43          7 12 41        
+ 17 29 33         22 31 43          5 35 39         30 34 35        
+ 13 15 23          6 36 42          9 29 30          4 18 36        
+ 19 41 43          2  5 20         14 31 42         15 16 43        
+ 31 35 38          1 25 32          1  2  6          3 11 37        
+ 18 22 39         15 17 24         21 27 44         17 22 42        
+  7  8 20          4 23 37         10 16 19         20 28 32        
+ 12 24 28         12 38 44         17 38 41          0  9 40        
+ 21 37 42          8  9 35          0 22 32         19 24 26        
+ 25 27 36         14 18 28          7 26 37          2 23 31        
+ 14 16 32          3 10 40          3 13 24         10 38 39        
+  3  4  9         26 30 33         12 25 34          8 27 33        
+  5 34 40         11 13 16          8 23 28          6 14 21        
+  2 10 11         29 39 41         11 18 40          5 25 44        
+
+   WEEK 17           WEEK 18           WEEK 19           WEEK 20        
+  0 14 17          5 29 42          0 18 31          8 15 44        
+ 10 27 42          9 16 31         19 20 44          3 28 41        
+ 24 30 37          2 25 40         10 34 43          1  7 30        
+ 20 25 26         11 38 43         12 16 22         12 18 27        
+  7 16 18         18 23 35         23 29 36         11 34 42        
+ 11 19 23          4 17 19          8 30 38          9 17 25        
+  3 12 29          3 34 44          3 17 26         13 19 38        
+ 32 35 40          0 10 41         28 37 42         14 23 43        
+  6 41 44         20 21 39          7 27 39         20 31 36        
+  9 28 33          6 32 33          1  9 21         26 29 32        
+  2  8 39         12 36 37         11 24 33          2 22 33        
+  1  5 43          8 14 24          4 14 40          5 10 21        
+  4 21 38         15 26 28          2 15 41          4  6 16        
+ 13 22 36          1  7 22          5 13 32         37 39 40        
+ 15 31 34         13 27 30          6 25 35          0 24 35        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CURRENT EVAL = 5
+CONFLICT MATRIX : 
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+   ---------------------------------------------------------------------------------------------------------------------------------------
+ 0|  0  1  1  1  1  0  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1
+ 1|  1  0  1  1  1  1  1  2  1  1  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1
+ 2|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1
+ 3|  1  1  1  0  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1
+ 4|  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1
+ 5|  0  1  1  0  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+ 6|  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1
+ 7|  1  2  1  0  1  0  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1
+ 8|  2  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1
+ 9|  1  1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1
+10|  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1
+11|  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+12|  1  0  1  1  1  1  1  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+13|  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  0  1
+14|  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0
+15|  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  2  1  0  1  1  1  1  0  1  0  1  1  1  1  1  1  1
+16|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1
+17|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1
+18|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1
+19|  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+20|  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+21|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+22|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1
+23|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  0
+24|  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+25|  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+26|  0  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1
+27|  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+28|  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  2  1  1  1  0  1  0  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+29|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0
+30|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1
+31|  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+32|  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0
+33|  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1
+34|  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+35|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1
+36|  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  0  1  1  1  1
+37|  1  1  1  1  1  1  0  1  1  1  0  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  2  1  1
+38|  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  2  1
+39|  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1
+40|  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  1  1
+41|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1
+42|  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  2  1  1  0  1  0  1  1
+43|  1  1  0  1  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  2  0  1  1  1  0  1
+44|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0
+
+
+Tabu search finished
+RUNTIME  = 60.4074 sec.
+ITERATIONS: 10000
