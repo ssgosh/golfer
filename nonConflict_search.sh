@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# for g in {15..6..-1}
-# do 
-g=6
+for g in {21..31}
+do 
+# g=6
     oldmiddle=0
     firstnum=1
     lastnum=$(((3*g -1)/2))
@@ -12,7 +12,7 @@ g=6
         if [ "$middle" -eq "$oldmiddle" ]; then
             break 
         fi
-        txt_file="./"$(( 3*g ))"_new/log_"$g"_3_"$middle.txt
+        txt_file="./outputs_dir/"$(( 3*g ))"/log_"$g"_3_"$middle.txt
         ./sgp -g $g -p 3 -w $middle --tabu>>$txt_file
         OUTPUT="$(grep '^CURRENT EVAL = ' $txt_file)"
         CONFLICT="${OUTPUT//[!0-9]/}"
@@ -31,7 +31,7 @@ g=6
     while :
     do
         middle=$((middle+1))
-        txt_file="./"$(( 3*g ))"/log_"$g"_3_"$middle.txt
+        txt_file="./outputs_dir/"$(( 3*g ))"/log_"$g"_3_"$middle.txt
         ./sgp -g $g -p 3 -w $middle --tabu>>$txt_file
         OUTPUT="$(grep '^CURRENT EVAL = ' $txt_file)"
         CONFLICT="${OUTPUT//[!0-9]/}"
@@ -45,4 +45,4 @@ g=6
         fi
     done
     echo "For g=" $g "Best w=" $((middle-1))
-# done
+done
