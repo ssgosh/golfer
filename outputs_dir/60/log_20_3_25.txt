@@ -1,0 +1,875 @@
+Solving SGP( :	20 , 3 , 25 , 
+Maximum tabu length set to:	100
+, Miniumu tabu length set to:	4
+, Maximum Tries:	10000
+, Maximum Stable Tries:	300
+
+1587992685 INFO tabu : New best sgp (476) found
+1587992685 INFO tabu : New best sgp (472) found
+1587992686 INFO tabu : New best sgp (468) found
+1587992686 INFO tabu : New best sgp (464) found
+1587992686 INFO tabu : New best sgp (460) found
+1587992686 INFO tabu : New best sgp (456) found
+1587992686 INFO tabu : New best sgp (452) found
+1587992686 INFO tabu : New best sgp (448) found
+1587992686 INFO tabu : New best sgp (444) found
+1587992686 INFO tabu : New best sgp (440) found
+1587992686 INFO tabu : New best sgp (436) found
+1587992686 INFO tabu : New best sgp (432) found
+1587992686 INFO tabu : New best sgp (428) found
+1587992686 INFO tabu : New best sgp (424) found
+1587992686 INFO tabu : New best sgp (420) found
+1587992686 INFO tabu : New best sgp (416) found
+1587992686 INFO tabu : New best sgp (412) found
+1587992686 INFO tabu : New best sgp (408) found
+1587992686 INFO tabu : New best sgp (404) found
+1587992686 INFO tabu : New best sgp (400) found
+1587992686 INFO tabu : New best sgp (396) found
+1587992686 INFO tabu : New best sgp (392) found
+1587992686 INFO tabu : New best sgp (388) found
+1587992686 INFO tabu : New best sgp (384) found
+1587992686 INFO tabu : New best sgp (380) found
+1587992686 INFO tabu : New best sgp (376) found
+1587992686 INFO tabu : New best sgp (372) found
+1587992686 INFO tabu : New best sgp (368) found
+1587992686 INFO tabu : New best sgp (364) found
+1587992687 INFO tabu : New best sgp (360) found
+1587992687 INFO tabu : New best sgp (356) found
+1587992687 INFO tabu : New best sgp (352) found
+1587992687 INFO tabu : New best sgp (348) found
+1587992687 INFO tabu : New best sgp (344) found
+1587992687 INFO tabu : New best sgp (340) found
+1587992687 INFO tabu : New best sgp (336) found
+1587992687 INFO tabu : New best sgp (332) found
+1587992687 INFO tabu : New best sgp (328) found
+1587992687 INFO tabu : New best sgp (324) found
+1587992687 INFO tabu : New best sgp (320) found
+1587992687 INFO tabu : New best sgp (316) found
+1587992687 INFO tabu : New best sgp (312) found
+1587992687 INFO tabu : New best sgp (309) found
+1587992687 INFO tabu : New best sgp (306) found
+1587992687 INFO tabu : New best sgp (303) found
+1587992687 INFO tabu : New best sgp (299) found
+1587992687 INFO tabu : New best sgp (296) found
+1587992687 INFO tabu : New best sgp (293) found
+1587992687 INFO tabu : New best sgp (290) found
+1587992687 INFO tabu : New best sgp (287) found
+1587992687 INFO tabu : New best sgp (284) found
+1587992687 INFO tabu : New best sgp (281) found
+1587992687 INFO tabu : New best sgp (278) found
+1587992687 INFO tabu : New best sgp (275) found
+1587992687 INFO tabu : New best sgp (272) found
+1587992687 INFO tabu : New best sgp (269) found
+1587992687 INFO tabu : New best sgp (266) found
+1587992687 INFO tabu : New best sgp (263) found
+1587992687 INFO tabu : New best sgp (260) found
+1587992687 INFO tabu : New best sgp (257) found
+1587992688 INFO tabu : New best sgp (254) found
+1587992688 INFO tabu : New best sgp (251) found
+1587992688 INFO tabu : New best sgp (248) found
+1587992688 INFO tabu : New best sgp (245) found
+1587992688 INFO tabu : New best sgp (242) found
+1587992688 INFO tabu : New best sgp (239) found
+1587992688 INFO tabu : New best sgp (236) found
+1587992688 INFO tabu : New best sgp (233) found
+1587992688 INFO tabu : New best sgp (230) found
+1587992688 INFO tabu : New best sgp (227) found
+1587992688 INFO tabu : New best sgp (224) found
+1587992688 INFO tabu : New best sgp (221) found
+1587992688 INFO tabu : New best sgp (218) found
+1587992688 INFO tabu : New best sgp (215) found
+1587992688 INFO tabu : New best sgp (212) found
+1587992688 INFO tabu : New best sgp (209) found
+1587992688 INFO tabu : New best sgp (206) found
+1587992688 INFO tabu : New best sgp (203) found
+1587992688 INFO tabu : New best sgp (200) found
+1587992688 INFO tabu : New best sgp (197) found
+1587992688 INFO tabu : New best sgp (194) found
+1587992688 INFO tabu : New best sgp (191) found
+1587992688 INFO tabu : New best sgp (188) found
+1587992688 INFO tabu : New best sgp (185) found
+1587992688 INFO tabu : New best sgp (182) found
+1587992688 INFO tabu : New best sgp (179) found
+1587992688 INFO tabu : New best sgp (176) found
+1587992688 INFO tabu : New best sgp (173) found
+1587992688 INFO tabu : New best sgp (170) found
+1587992688 INFO tabu : New best sgp (167) found
+1587992688 INFO tabu : New best sgp (165) found
+1587992688 INFO tabu : New best sgp (163) found
+1587992688 INFO tabu : New best sgp (161) found
+1587992688 INFO tabu : New best sgp (159) found
+1587992688 INFO tabu : New best sgp (157) found
+1587992688 INFO tabu : New best sgp (155) found
+1587992688 INFO tabu : New best sgp (153) found
+1587992688 INFO tabu : New best sgp (151) found
+1587992688 INFO tabu : New best sgp (149) found
+1587992688 INFO tabu : New best sgp (147) found
+1587992688 INFO tabu : New best sgp (145) found
+1587992689 INFO tabu : New best sgp (143) found
+1587992689 INFO tabu : New best sgp (141) found
+1587992689 INFO tabu : New best sgp (139) found
+1587992689 INFO tabu : New best sgp (136) found
+1587992689 INFO tabu : New best sgp (134) found
+1587992689 INFO tabu : New best sgp (132) found
+1587992689 INFO tabu : New best sgp (130) found
+1587992689 INFO tabu : New best sgp (128) found
+1587992689 INFO tabu : New best sgp (126) found
+1587992689 INFO tabu : New best sgp (124) found
+1587992689 INFO tabu : New best sgp (122) found
+1587992689 INFO tabu : New best sgp (120) found
+1587992689 INFO tabu : New best sgp (118) found
+1587992689 INFO tabu : New best sgp (116) found
+1587992689 INFO tabu : New best sgp (114) found
+1587992689 INFO tabu : New best sgp (112) found
+1587992689 INFO tabu : New best sgp (110) found
+1587992689 INFO tabu : New best sgp (108) found
+1587992689 INFO tabu : New best sgp (105) found
+1587992689 INFO tabu : New best sgp (103) found
+1587992689 INFO tabu : New best sgp (101) found
+1587992689 INFO tabu : New best sgp (99) found
+1587992689 INFO tabu : New best sgp (97) found
+1587992689 INFO tabu : New best sgp (95) found
+1587992689 INFO tabu : New best sgp (93) found
+1587992689 INFO tabu : New best sgp (91) found
+1587992689 INFO tabu : New best sgp (89) found
+1587992689 INFO tabu : New best sgp (87) found
+1587992689 INFO tabu : New best sgp (86) found
+1587992689 INFO tabu : New best sgp (85) found
+1587992689 INFO tabu : New best sgp (83) found
+1587992689 INFO tabu : New best sgp (81) found
+1587992689 INFO tabu : New best sgp (80) found
+1587992689 INFO tabu : New best sgp (79) found
+1587992689 INFO tabu : New best sgp (78) found
+1587992689 INFO tabu : New best sgp (77) found
+1587992689 INFO tabu : New best sgp (76) found
+1587992689 INFO tabu : New best sgp (75) found
+1587992689 INFO tabu : New best sgp (74) found
+1587992689 INFO tabu : New best sgp (73) found
+1587992689 INFO tabu : New best sgp (72) found
+1587992689 INFO tabu : New best sgp (71) found
+1587992689 INFO tabu : New best sgp (70) found
+1587992689 INFO tabu : New best sgp (69) found
+1587992689 INFO tabu : New best sgp (68) found
+1587992689 INFO tabu : New best sgp (67) found
+1587992689 INFO tabu : New best sgp (65) found
+1587992689 INFO tabu : New best sgp (64) found
+1587992689 INFO tabu : New best sgp (63) found
+1587992689 INFO tabu : New best sgp (62) found
+1587992689 INFO tabu : New best sgp (61) found
+1587992689 INFO tabu : New best sgp (59) found
+1587992689 INFO tabu : New best sgp (57) found
+1587992689 INFO tabu : New best sgp (56) found
+1587992689 INFO tabu : New best sgp (55) found
+1587992689 INFO tabu : New best sgp (54) found
+1587992689 INFO tabu : New best sgp (53) found
+1587992689 INFO tabu : New best sgp (52) found
+1587992689 INFO tabu : New best sgp (51) found
+1587992689 INFO tabu : New best sgp (50) found
+1587992689 INFO tabu : New best sgp (49) found
+1587992689 INFO tabu : New best sgp (48) found
+1587992689 INFO tabu : New best sgp (47) found
+1587992689 INFO tabu : New best sgp (46) found
+1587992689 INFO tabu : New best sgp (45) found
+1587992689 INFO tabu : New best sgp (44) found
+1587992689 INFO tabu : New best sgp (43) found
+1587992689 INFO tabu : New best sgp (42) found
+1587992689 INFO tabu : New best sgp (41) found
+1587992689 INFO tabu : New best sgp (40) found
+1587992689 INFO tabu : New best sgp (39) found
+1587992689 INFO tabu : New best sgp (37) found
+1587992689 INFO tabu : New best sgp (36) found
+1587992689 INFO tabu : New best sgp (35) found
+1587992689 INFO tabu : New best sgp (34) found
+1587992689 INFO tabu : New best sgp (33) found
+1587992689 INFO tabu : New best sgp (32) found
+1587992689 INFO tabu : New best sgp (31) found
+1587992689 INFO tabu : New best sgp (30) found
+1587992689 INFO tabu : New best sgp (29) found
+1587992689 INFO tabu : New best sgp (27) found
+1587992690 INFO tabu : New best sgp (26) found
+1587992690 INFO tabu : New best sgp (25) found
+1587992690 INFO tabu : New best sgp (24) found
+1587992690 INFO tabu : New best sgp (23) found
+1587992690 INFO tabu : New best sgp (22) found
+1587992690 INFO tabu : New best sgp (21) found
+1587992690 INFO tabu : New best sgp (20) found
+1587992690 INFO tabu : New best sgp (19) found
+1587992690 INFO tabu : New best sgp (18) found
+1587992690 INFO tabu : New best sgp (17) found
+1587992690 INFO tabu : New best sgp (16) found
+1587992690 INFO tabu : New best sgp (15) found
+1587992690 INFO tabu : New best sgp (14) found
+1587992690 INFO tabu : New best sgp (13) found
+1587992690 INFO tabu : New best sgp (12) found
+1587992690 INFO tabu : New best sgp (11) found
+1587992690 INFO tabu : New best sgp (10) found
+1587992690 INFO tabu : New best sgp (9) found
+1587992690 INFO tabu : New best sgp (8) found
+1587992690 INFO tabu : New best sgp (7) found
+1587992690 INFO tabu : New best sgp (6) found
+1587992690 INFO tabu : New best sgp (5) found
+1587992690 INFO tabu : New best sgp (4) found
+1587992690 INFO tabu : New best sgp (3) found
+1587992690 INFO tabu : New best sgp (2) found
+1587992690 INFO tabu : New best sgp (1) found
+1587992690 INFO tabu : New best sgp (0) found
+   WEEK 1           WEEK 2           WEEK 3           WEEK 4        
+ 11 13 28          9 25 47          6 12 59         26 34 48        
+ 19 30 34          4 19 52         21 25 40         20 27 58        
+ 38 48 55         21 28 50          0 14 33         23 39 49        
+  1 14 44         11 24 57          4 47 48         15 28 31        
+  7 20 26         22 26 54          1  3 31          1  8 51        
+  5 27 32         20 23 56         36 44 52          9 43 53        
+  3 41 49         34 41 51         17 18 39          3  6 38        
+ 15 36 43         16 31 37         32 50 54         17 22 47        
+ 22 35 42          2  3 53          2 24 28         35 36 54        
+ 16 23 24         39 40 43          8 15 49         14 19 55        
+ 37 40 50         10 36 48         16 26 45          4 25 59        
+  4 17 45          1 13 27          7 23 46         12 32 45        
+  9 31 58          6 14 32         13 30 38         11 29 44        
+ 29 33 56          7 12 49          9 10 19         16 33 50        
+ 10 53 57          5 33 38          5 41 42         18 42 46        
+  0  6 51         30 42 58         35 57 58          5 56 57        
+  8 21 47          0 17 35         11 55 56          2 30 52        
+  2 18 54         45 55 59         27 29 53          0  7 41        
+ 12 25 52         15 44 46         22 43 51         10 13 40        
+ 39 46 59          8 18 29         20 34 37         21 24 37        
+
+   WEEK 5           WEEK 6           WEEK 7           WEEK 8        
+ 33 34 57          9 17 27          1 34 58         19 25 54        
+ 19 37 41         36 47 57          7 14 47          7 29 57        
+ 38 52 56         29 35 38         11 25 45         28 36 38        
+ 12 21 46          4 12 34          4  6 56          9 40 52        
+ 16 27 59          6 11 26         33 39 44          3 44 56        
+ 11 32 49          2 15 40          2 36 41         30 39 41        
+ 13 24 35         13 18 50         30 43 55         15 16 18        
+  6 28 55         33 41 52         19 50 57         37 47 59        
+ 15 23 48          1 42 55         21 22 27          6 27 48        
+  0 18 58          3 19 21         17 42 52          8 22 23        
+  8 17 26         22 37 39          3 12 48         24 31 53        
+ 36 39 53         14 23 58          9 26 28         35 43 49        
+  3 30 45          5 48 49         13 46 49          4 13 51        
+  1 43 47         25 43 46         15 51 53          0  2 50        
+  5 50 51          0 20 30         24 32 40         11 14 17        
+  7 25 31         28 53 59          5 29 59         10 21 32        
+ 10 14 54         32 44 51         16 38 54         33 45 58        
+  2  4 42         31 45 54         10 20 35          1  5 20        
+ 20 29 40          7 24 56         18 23 37         12 26 42        
+  9 22 44          8 10 16          0  8 31         34 46 55        
+
+   WEEK 9           WEEK 10           WEEK 11           WEEK 12        
+  4 18 35          9 13 21         11 34 36         25 28 41        
+ 28 46 57          5 40 46         37 54 57         30 33 40        
+ 27 34 56         27 39 52         31 40 41          9 12 36        
+ 26 29 55         22 41 55          1  6 33         17 43 44        
+ 14 21 53         34 38 43         10 26 50         14 50 52        
+ 20 25 38         18 36 49         20 28 42         21 34 42        
+  5  6 19         25 26 37          3 18 25         16 19 47        
+  8 11 50          7 17 19          2  8 19         22 38 46        
+ 31 32 52         16 56 58          5 14 24          5 35 53        
+ 36 40 45          4 31 44         17 51 55          6 18 45        
+  1 15 39         12 20 50         45 46 52         10 11 58        
+ 12 44 58          1 24 54         15 29 32          2 31 51        
+  2 13 59          8 33 59         12 35 47         20 24 59        
+  0 24 42          3 28 47         21 44 59          1 49 57        
+  9 23 30         10 29 30         43 48 56          3  8 32        
+ 10 17 37          0 32 57          0 13 23         15 26 56        
+ 47 49 51         11 15 42          7  9 16          7 13 48        
+ 16 41 43         14 48 51         22 53 58         27 37 55        
+  3  7 54         23 45 53          4 38 39          0 39 54        
+ 22 33 48          2  6 35         27 30 49          4 23 29        
+
+   WEEK 13           WEEK 14           WEEK 15           WEEK 16        
+ 13 32 58          5 10 15         27 35 41          2  9 48        
+  1  7 59         26 30 57          4 26 43          5 12 28        
+ 40 47 54         12 13 22         15 24 55          4  8 37        
+ 26 33 49         29 39 47          1 17 29         11 21 33        
+  8 24 36         17 32 41          2  5 22         14 18 30        
+ 10 12 38          8 14 25         10 23 25          1 16 25        
+  2 20 21         16 52 53         28 32 33         32 35 59        
+  4 27 50         21 23 35          3 11 39          6 24 34        
+ 14 41 46         19 38 42          7 21 45         20 39 55        
+  5 25 44          9 49 59          9 42 56          7 10 42        
+ 42 43 57          2 43 45          6 36 50         27 40 57        
+ 39 45 56          0 34 44         19 40 53         23 36 51        
+  3  9 15          1 11 48         30 48 59         41 44 47        
+  0 53 55         31 50 56         20 49 54         29 31 43        
+  6 23 31          4 28 54         12 18 51         17 46 53        
+ 19 28 29         24 27 51         14 16 57          0 26 52        
+ 18 22 34          3 20 36          8 38 44          3 22 50        
+ 16 17 48          7 33 37         13 31 34         13 19 56        
+ 11 30 37          6 46 58         37 52 58         38 45 49        
+ 35 51 52         18 40 55          0 46 47         15 54 58        
+
+   WEEK 17           WEEK 18           WEEK 19           WEEK 20        
+ 13 26 41          7 30 44          2 10 44         17 23 40        
+ 42 50 59          3 46 51         23 52 59         12 24 43        
+ 15 35 37          0 28 40          6  7 43         15 25 30        
+  5 17 36          6 15 20         41 48 58          0  1 36        
+ 25 34 39         14 34 35         19 22 49          7 18 52        
+  2 14 56          8 13 43         14 29 36         49 50 53        
+ 12 16 29         25 33 53          5 21 31          4 21 55        
+ 10 27 46          5 11 47          4 11 53         10 41 59        
+ 18 33 43          1  9 50         18 32 56          8 39 57        
+ 31 49 55         17 56 59          3 24 26          5 26 58        
+  3  4 40         23 26 38         30 46 50          2 33 46        
+  7 32 53          4 41 57          9 35 55         19 44 48        
+  1 28 30         21 39 48          8 40 42          9 37 45        
+  8 20 48         22 24 45         20 33 51         14 20 22        
+ 24 47 58         12 19 27          1 37 38         28 51 56        
+ 23 44 57         16 32 36         13 25 57         32 38 47        
+ 11 22 52          2 55 58         12 17 54          6 13 29        
+  6  9 54         10 18 31         16 28 39         11 31 35        
+ 19 45 51         37 42 49          0 27 45         27 42 54        
+  0 21 38         29 52 54         15 34 47          3 16 34        
+
+   WEEK 21           WEEK 22           WEEK 23           WEEK 24        
+ 10 24 49         14 26 27         17 34 49         32 39 42        
+  8 30 54         13 15 33          4 16 46          2 12 37        
+  6 17 25          3 10 52          3 33 35          7  8 34        
+ 18 26 59         37 44 53         12 40 56         25 35 50        
+ 47 53 56          9 32 34         47 50 55          3  5 13        
+ 35 44 45          0  4  5         21 51 58          4 14 49        
+ 21 52 57          8 28 58          1 10 45         18 38 57        
+ 13 36 37         24 29 50         19 26 36         23 27 28        
+  5 23 55         41 54 56         20 31 57         16 44 55        
+ 39 50 58         16 30 35          0 22 59         48 53 54        
+  3 14 43         19 20 46         15 27 38         20 43 52        
+ 11 38 40          6 40 49         25 29 42         29 41 45        
+ 32 46 48         12 55 57          2  7 11         26 40 51        
+ 16 42 51         42 45 48          5  8 52         19 24 33        
+  1 12 41          7 39 51          9 14 39         30 31 47        
+  4  9 20          2 23 47         23 32 43         36 58 59        
+  2 29 34         22 25 36          6 30 53          0  9 11        
+  0 15 19         11 43 59         18 24 41          1 46 56        
+  7 22 28          1 18 21         13 44 54         15 17 21        
+ 27 31 33         17 31 38         28 37 48          6 10 22        
+
+   WEEK 25        
+  0 49 56        
+ 14 38 59        
+  8 41 53        
+  7 27 36        
+ 24 25 48        
+ 33 42 47        
+ 10 28 34        
+ 19 31 39        
+  2 26 32        
+  9 51 57        
+ 29 37 46        
+ 11 12 23        
+  5 43 54        
+  3 17 58        
+  1 35 40        
+  4 22 30        
+ 13 52 55        
+  6 16 21        
+ 15 45 50        
+ 18 20 44        
+
+CURRENT EVAL = 0
+CONFLICT MATRIX : 
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 0|  0  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1
+ 1|  1  0  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1
+ 2|  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1
+ 3|  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  0
+ 4|  1  0  1  1  0  1  1  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+ 5|  1  1  1  1  1  0  1  0  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+ 6|  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  0  0  1  0  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1
+ 7|  1  1  1  1  0  0  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1
+ 8|  1  1  1  1  1  1  0  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  0  0  1  1  1
+ 9|  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+10|  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  0  0  1  1  1
+11|  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  0  0  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  1
+12|  0  1  1  1  1  1  1  1  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+13|  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1
+14|  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  0  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+15|  1  1  1  1  0  1  1  0  1  1  1  1  0  1  0  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  0
+16|  0  1  0  1  1  0  1  1  1  1  1  0  1  0  1  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+17|  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  0  1  1  1  0  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1
+18|  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  0  1  1  1  1  1  1
+19|  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0
+20|  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1
+21|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  0  1  1  1  1  1  0  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  0  1  0  1  1  1
+22|  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1
+23|  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1
+24|  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1
+25|  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  0  0  1  0  1
+26|  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  0  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1
+27|  1  1  0  0  1  1  1  1  0  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1
+28|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1
+29|  0  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  0  1  1  1  1  1  1  0  1
+30|  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  0  1  1  0  1  1  1  1  1  0  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1
+31|  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  0
+32|  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  0  1  1  0  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+33|  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1
+34|  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  0  0  0  1  1  1  1  0
+35|  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  0  1  1  1
+36|  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  0  1  0  1  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  0  0  1  1  1
+37|  0  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1
+38|  1  1  0  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  0  1  0  1  1  1  1  0  1
+39|  1  1  0  1  1  0  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+40|  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  0  0
+41|  1  1  1  1  1  1  0  1  1  0  1  0  1  1  1  0  1  1  1  1  0  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1
+42|  1  1  1  0  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+43|  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1
+44|  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1
+45|  1  1  1  1  1  0  1  1  0  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  1  1
+46|  1  1  1  1  1  1  1  1  0  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+47|  1  1  1  1  1  1  0  1  1  1  0  1  1  0  1  1  1  1  0  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1
+48|  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  0  1  1  1  1  0  1  1
+49|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  1  0  1
+50|  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  0  1  0  0  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1
+51|  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  0
+52|  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  0  1  1  1  1  1  1  1
+53|  1  0  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+54|  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  0  1  1  1  0
+55|  1  1  1  0  1  1  1  0  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1
+56|  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  0  0  1  1  0  1  1  1  1  0  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1
+57|  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  0
+58|  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1
+59|  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  1  0
+
+
+Tabu search finished
+RUNTIME  = 4.60846 sec.
+ITERATIONS: 302
+Solving SGP( :	20 , 3 , 25 , 
+Maximum tabu length set to:	100
+, Miniumu tabu length set to:	4
+, Maximum Tries:	10000
+, Maximum Stable Tries:	300
+
+1587993051 INFO tabu : New best sgp (475) found
+1587993051 INFO tabu : New best sgp (471) found
+1587993051 INFO tabu : New best sgp (467) found
+1587993051 INFO tabu : New best sgp (463) found
+1587993051 INFO tabu : New best sgp (459) found
+1587993051 INFO tabu : New best sgp (455) found
+1587993051 INFO tabu : New best sgp (451) found
+1587993051 INFO tabu : New best sgp (447) found
+1587993051 INFO tabu : New best sgp (443) found
+1587993051 INFO tabu : New best sgp (439) found
+1587993051 INFO tabu : New best sgp (435) found
+1587993051 INFO tabu : New best sgp (431) found
+1587993051 INFO tabu : New best sgp (427) found
+1587993051 INFO tabu : New best sgp (423) found
+1587993051 INFO tabu : New best sgp (419) found
+1587993052 INFO tabu : New best sgp (415) found
+1587993052 INFO tabu : New best sgp (411) found
+1587993052 INFO tabu : New best sgp (407) found
+1587993052 INFO tabu : New best sgp (403) found
+1587993052 INFO tabu : New best sgp (399) found
+1587993052 INFO tabu : New best sgp (395) found
+1587993052 INFO tabu : New best sgp (391) found
+1587993052 INFO tabu : New best sgp (387) found
+1587993052 INFO tabu : New best sgp (383) found
+1587993052 INFO tabu : New best sgp (379) found
+1587993052 INFO tabu : New best sgp (375) found
+1587993052 INFO tabu : New best sgp (371) found
+1587993052 INFO tabu : New best sgp (367) found
+1587993052 INFO tabu : New best sgp (363) found
+1587993052 INFO tabu : New best sgp (359) found
+1587993052 INFO tabu : New best sgp (355) found
+1587993052 INFO tabu : New best sgp (351) found
+1587993052 INFO tabu : New best sgp (347) found
+1587993052 INFO tabu : New best sgp (343) found
+1587993052 INFO tabu : New best sgp (339) found
+1587993052 INFO tabu : New best sgp (335) found
+1587993052 INFO tabu : New best sgp (331) found
+1587993052 INFO tabu : New best sgp (327) found
+1587993052 INFO tabu : New best sgp (323) found
+1587993052 INFO tabu : New best sgp (320) found
+1587993052 INFO tabu : New best sgp (317) found
+1587993052 INFO tabu : New best sgp (314) found
+1587993052 INFO tabu : New best sgp (311) found
+1587993052 INFO tabu : New best sgp (308) found
+1587993053 INFO tabu : New best sgp (305) found
+1587993053 INFO tabu : New best sgp (302) found
+1587993053 INFO tabu : New best sgp (298) found
+1587993053 INFO tabu : New best sgp (295) found
+1587993053 INFO tabu : New best sgp (292) found
+1587993053 INFO tabu : New best sgp (289) found
+1587993053 INFO tabu : New best sgp (286) found
+1587993053 INFO tabu : New best sgp (283) found
+1587993053 INFO tabu : New best sgp (280) found
+1587993053 INFO tabu : New best sgp (277) found
+1587993053 INFO tabu : New best sgp (274) found
+1587993053 INFO tabu : New best sgp (271) found
+1587993053 INFO tabu : New best sgp (268) found
+1587993053 INFO tabu : New best sgp (265) found
+1587993053 INFO tabu : New best sgp (262) found
+1587993053 INFO tabu : New best sgp (259) found
+1587993053 INFO tabu : New best sgp (256) found
+1587993053 INFO tabu : New best sgp (253) found
+1587993053 INFO tabu : New best sgp (250) found
+1587993053 INFO tabu : New best sgp (247) found
+1587993053 INFO tabu : New best sgp (244) found
+1587993053 INFO tabu : New best sgp (241) found
+1587993053 INFO tabu : New best sgp (238) found
+1587993053 INFO tabu : New best sgp (235) found
+1587993053 INFO tabu : New best sgp (232) found
+1587993053 INFO tabu : New best sgp (229) found
+1587993053 INFO tabu : New best sgp (226) found
+1587993053 INFO tabu : New best sgp (223) found
+1587993053 INFO tabu : New best sgp (220) found
+1587993053 INFO tabu : New best sgp (217) found
+1587993053 INFO tabu : New best sgp (214) found
+1587993053 INFO tabu : New best sgp (211) found
+1587993053 INFO tabu : New best sgp (208) found
+1587993053 INFO tabu : New best sgp (205) found
+1587993053 INFO tabu : New best sgp (202) found
+1587993053 INFO tabu : New best sgp (199) found
+1587993053 INFO tabu : New best sgp (195) found
+1587993053 INFO tabu : New best sgp (192) found
+1587993053 INFO tabu : New best sgp (189) found
+1587993054 INFO tabu : New best sgp (186) found
+1587993054 INFO tabu : New best sgp (183) found
+1587993054 INFO tabu : New best sgp (180) found
+1587993054 INFO tabu : New best sgp (178) found
+1587993054 INFO tabu : New best sgp (175) found
+1587993054 INFO tabu : New best sgp (173) found
+1587993054 INFO tabu : New best sgp (170) found
+1587993054 INFO tabu : New best sgp (168) found
+1587993054 INFO tabu : New best sgp (166) found
+1587993054 INFO tabu : New best sgp (164) found
+1587993054 INFO tabu : New best sgp (162) found
+1587993054 INFO tabu : New best sgp (160) found
+1587993054 INFO tabu : New best sgp (158) found
+1587993054 INFO tabu : New best sgp (156) found
+1587993054 INFO tabu : New best sgp (154) found
+1587993054 INFO tabu : New best sgp (152) found
+1587993054 INFO tabu : New best sgp (150) found
+1587993054 INFO tabu : New best sgp (148) found
+1587993054 INFO tabu : New best sgp (146) found
+1587993054 INFO tabu : New best sgp (144) found
+1587993054 INFO tabu : New best sgp (142) found
+1587993054 INFO tabu : New best sgp (140) found
+1587993054 INFO tabu : New best sgp (138) found
+1587993054 INFO tabu : New best sgp (136) found
+1587993054 INFO tabu : New best sgp (134) found
+1587993054 INFO tabu : New best sgp (132) found
+1587993054 INFO tabu : New best sgp (130) found
+1587993054 INFO tabu : New best sgp (128) found
+1587993054 INFO tabu : New best sgp (126) found
+1587993054 INFO tabu : New best sgp (123) found
+1587993054 INFO tabu : New best sgp (121) found
+1587993054 INFO tabu : New best sgp (119) found
+1587993054 INFO tabu : New best sgp (117) found
+1587993054 INFO tabu : New best sgp (115) found
+1587993054 INFO tabu : New best sgp (113) found
+1587993054 INFO tabu : New best sgp (111) found
+1587993054 INFO tabu : New best sgp (109) found
+1587993054 INFO tabu : New best sgp (107) found
+1587993054 INFO tabu : New best sgp (105) found
+1587993054 INFO tabu : New best sgp (103) found
+1587993054 INFO tabu : New best sgp (101) found
+1587993054 INFO tabu : New best sgp (99) found
+1587993054 INFO tabu : New best sgp (97) found
+1587993054 INFO tabu : New best sgp (95) found
+1587993054 INFO tabu : New best sgp (93) found
+1587993054 INFO tabu : New best sgp (91) found
+1587993054 INFO tabu : New best sgp (90) found
+1587993054 INFO tabu : New best sgp (89) found
+1587993054 INFO tabu : New best sgp (88) found
+1587993054 INFO tabu : New best sgp (87) found
+1587993054 INFO tabu : New best sgp (85) found
+1587993054 INFO tabu : New best sgp (83) found
+1587993054 INFO tabu : New best sgp (81) found
+1587993054 INFO tabu : New best sgp (80) found
+1587993054 INFO tabu : New best sgp (79) found
+1587993054 INFO tabu : New best sgp (78) found
+1587993054 INFO tabu : New best sgp (76) found
+1587993054 INFO tabu : New best sgp (74) found
+1587993054 INFO tabu : New best sgp (73) found
+1587993054 INFO tabu : New best sgp (72) found
+1587993054 INFO tabu : New best sgp (71) found
+1587993055 INFO tabu : New best sgp (69) found
+1587993055 INFO tabu : New best sgp (68) found
+1587993055 INFO tabu : New best sgp (67) found
+1587993055 INFO tabu : New best sgp (65) found
+1587993055 INFO tabu : New best sgp (64) found
+1587993055 INFO tabu : New best sgp (63) found
+1587993055 INFO tabu : New best sgp (62) found
+1587993055 INFO tabu : New best sgp (61) found
+1587993055 INFO tabu : New best sgp (60) found
+1587993055 INFO tabu : New best sgp (58) found
+1587993055 INFO tabu : New best sgp (57) found
+1587993055 INFO tabu : New best sgp (56) found
+1587993055 INFO tabu : New best sgp (55) found
+1587993055 INFO tabu : New best sgp (54) found
+1587993055 INFO tabu : New best sgp (52) found
+1587993055 INFO tabu : New best sgp (50) found
+1587993055 INFO tabu : New best sgp (49) found
+1587993055 INFO tabu : New best sgp (48) found
+1587993055 INFO tabu : New best sgp (47) found
+1587993055 INFO tabu : New best sgp (46) found
+1587993055 INFO tabu : New best sgp (45) found
+1587993055 INFO tabu : New best sgp (43) found
+1587993055 INFO tabu : New best sgp (42) found
+1587993055 INFO tabu : New best sgp (41) found
+1587993055 INFO tabu : New best sgp (40) found
+1587993055 INFO tabu : New best sgp (39) found
+1587993055 INFO tabu : New best sgp (38) found
+1587993055 INFO tabu : New best sgp (37) found
+1587993055 INFO tabu : New best sgp (36) found
+1587993055 INFO tabu : New best sgp (35) found
+1587993055 INFO tabu : New best sgp (34) found
+1587993055 INFO tabu : New best sgp (33) found
+1587993055 INFO tabu : New best sgp (32) found
+1587993055 INFO tabu : New best sgp (31) found
+1587993055 INFO tabu : New best sgp (30) found
+1587993055 INFO tabu : New best sgp (29) found
+1587993055 INFO tabu : New best sgp (28) found
+1587993055 INFO tabu : New best sgp (27) found
+1587993055 INFO tabu : New best sgp (26) found
+1587993055 INFO tabu : New best sgp (25) found
+1587993055 INFO tabu : New best sgp (24) found
+1587993055 INFO tabu : New best sgp (23) found
+1587993055 INFO tabu : New best sgp (22) found
+1587993055 INFO tabu : New best sgp (21) found
+1587993055 INFO tabu : New best sgp (20) found
+1587993055 INFO tabu : New best sgp (19) found
+1587993055 INFO tabu : New best sgp (18) found
+1587993055 INFO tabu : New best sgp (17) found
+1587993055 INFO tabu : New best sgp (16) found
+1587993055 INFO tabu : New best sgp (15) found
+1587993055 INFO tabu : New best sgp (14) found
+1587993055 INFO tabu : New best sgp (13) found
+1587993055 INFO tabu : New best sgp (12) found
+1587993055 INFO tabu : New best sgp (11) found
+1587993055 INFO tabu : New best sgp (10) found
+1587993055 INFO tabu : New best sgp (9) found
+1587993055 INFO tabu : New best sgp (8) found
+1587993055 INFO tabu : New best sgp (7) found
+1587993055 INFO tabu : New best sgp (6) found
+1587993055 INFO tabu : New best sgp (4) found
+1587993055 INFO tabu : New best sgp (3) found
+1587993055 INFO tabu : New best sgp (2) found
+1587993055 INFO tabu : New best sgp (1) found
+1587993055 INFO tabu : New best sgp (0) found
+   WEEK 1           WEEK 2           WEEK 3           WEEK 4        
+  6 37 39          2 46 55         45 46 48         26 50 59        
+  0  2 38          4 36 41         22 58 59         16 20 49        
+  3 41 42          1  3 16          2 32 35          0  6 27        
+ 26 34 43         31 35 37         27 30 42          1 31 57        
+ 21 30 50         17 29 39          9 18 37         39 44 52        
+  1 27 51         27 52 58         16 19 26          2  8 33        
+ 12 36 55         14 23 24         20 28 54          9 25 28        
+ 19 31 58         13 28 43          0 44 51         11 36 43        
+  7  8 40         10 25 51         11 25 29          4  7 46        
+ 22 32 54         12 15 59          4 13 21         12 17 40        
+ 15 35 57          7 45 54          7 24 57          3 21 53        
+  5 11 44         11 30 48         10 33 34         24 34 38        
+  4 24 48         21 44 57          3 31 56         14 15 18        
+ 29 46 47         18 19 42          8 23 50         48 51 54        
+ 16 25 52          5 26 33          5 41 49         29 32 56        
+ 18 45 59          6  8 32         15 40 53         30 37 41        
+ 13 20 33         22 47 49         17 36 52         10 13 19        
+ 10 17 28          0 40 50          1 38 39          5 47 58        
+  9 14 49          9 38 56         12 14 47         22 42 45        
+ 23 53 56         20 34 53          6 43 55         23 35 55        
+
+   WEEK 5           WEEK 6           WEEK 7           WEEK 8        
+  3  4 54         48 53 59         29 45 58         11 18 57        
+ 34 40 47          1 47 54         30 34 44          7 32 38        
+ 25 38 48          0 13 42          7 10 41          3 19 40        
+ 13 36 39         24 33 39         18 49 54          2 22 41        
+  0 43 49         41 43 44          5 16 22         23 33 49        
+  9 24 29         15 49 50         43 47 53         26 30 58        
+ 30 32 59          5 25 55         15 32 48         14 44 59        
+ 20 31 55         12 30 31          1  6 21         16 29 37        
+ 17 18 41         23 51 57         14 39 57          9 13 54        
+ 35 42 44          4  9 40          4 12 33         21 42 46        
+ 37 45 50         45 52 56         19 27 35          4 50 55        
+ 10 22 23         19 32 37         20 36 51          1  5 36        
+  7 11 15          3  8 11          0 24 28         31 51 52        
+ 14 19 51         18 38 58          2 23 40         15 43 56        
+  2  5 21          7 14 36          3 37 38          0 25 53        
+ 12 16 53         16 28 46          8  9 42         28 34 39        
+ 27 33 56          2 17 20         17 25 56         10 24 35        
+  8 57 58          6 26 35         11 13 26         17 27 47        
+  6 46 52         22 29 34         31 46 50          6 20 45        
+  1 26 28         10 21 27         52 55 59          8 12 48        
+
+   WEEK 9           WEEK 10           WEEK 11           WEEK 12        
+ 35 40 46          2 12 39          6 18 40         27 41 54        
+ 25 26 42          0  9 34         17 30 55          2 52 57        
+ 24 41 50         14 21 37          5 23 39         18 24 31        
+  0 14 45          5 28 38          1 11 32          3 22 26        
+ 11 16 51         24 45 49         16 33 45          5 40 45        
+ 15 31 47         48 50 52          4 29 35          6 17 23        
+ 13 56 57         18 20 26          3 15 46          4 39 58        
+ 33 37 59         17 43 59         34 50 58         21 34 56        
+ 10 32 52          3 25 33          2 14 42         32 33 46        
+  3 23 34         32 42 51         36 44 53         19 28 50        
+ 18 21 36          8 31 54          8 22 56         10 36 49        
+  1 20 48         10 29 57          7 19 59          1 25 37        
+  2 28 44         35 36 47         27 37 49          7 20 29        
+  6  7 22          6 15 19         13 31 38         16 44 47        
+  8 30 39         44 56 58         28 41 48          8 14 53        
+ 54 55 58         11 22 46          9 10 43         12 38 43        
+ 29 38 49          7 27 55         12 25 57         13 15 30        
+  5 19 43          1 13 53         21 26 51          9 51 55        
+  9 12 27         16 40 41          0 20 47         11 42 59        
+  4 17 53          4 23 30         24 52 54          0 35 48        
+
+   WEEK 13           WEEK 14           WEEK 15           WEEK 16        
+ 13 37 46          8 25 41          9 26 53          6 30 49        
+  4 22 31         26 29 55         11 49 52         38 42 47        
+  3 28 57          6  9 48         22 39 50         20 27 46        
+ 20 25 35         40 49 57          4 47 59          2 26 48        
+  8 21 29          3  5 20         16 42 55         40 56 59        
+ 39 41 55         36 37 42          3 36 58         16 43 57        
+ 10 38 59         30 33 35          0 10 54          9 19 21        
+ 12 26 56         19 52 53         12 18 34         22 28 33        
+ 19 33 48         11 12 54         21 35 38          3 17 51        
+ 49 51 53         14 28 56         25 43 46         35 41 45        
+ 27 36 45          7 21 58          8 20 44          7 18 25        
+  5 30 54          2 18 51         37 40 51         10 39 53        
+ 15 17 42         17 38 46          7 28 30         13 23 52        
+ 24 32 40          1  4 44         15 29 33          1 15 24        
+  1 14 34          0 15 22         23 31 45          8 34 55        
+ 18 43 52         24 27 59         17 19 24         36 50 54        
+  0 16 58         16 23 32          5  6 14          0  5 12        
+  7  9 44         31 39 43         13 27 48         14 32 58        
+ 11 23 47         10 47 50         32 41 57          4 11 37        
+  2  6 50         13 34 45          1  2 56         29 31 44        
+
+   WEEK 17           WEEK 18           WEEK 19           WEEK 20        
+ 22 27 38         23 26 41         43 45 51         13 22 24        
+ 48 55 57         20 21 52          1 18 33         12 23 46        
+  8 37 43         38 53 55         15 41 52          3  9 52        
+  2 11 24          1 29 30         21 47 55         14 25 50        
+  5  9 15         37 47 48          5 46 53         34 36 59        
+ 20 23 58         11 19 34         27 31 32         29 42 43        
+ 13 29 41          6 12 28         22 30 40          6 11 38        
+ 21 28 45          8 24 51          6 24 56          0 30 57        
+  0 46 59         17 33 58          8 10 16         16 21 31        
+ 26 47 52          5 31 59          2 13 25          2 37 53        
+ 16 18 30          2 15 54          7 34 48         39 40 54        
+  3  7 50         46 49 56         23 28 42         19 20 41        
+  6 31 36         10 40 42          3 49 59          8 45 47        
+ 14 33 40         27 44 50         36 38 57          4 28 32        
+ 17 32 34          3 32 43         11 35 50          7 26 49        
+ 35 53 54         13 18 35          0  4 19         15 51 58        
+  4 51 56          0  7 39         14 29 54          5 18 27        
+  1 10 12         22 25 36         12 37 58         10 48 56        
+ 19 25 44          9 45 57         17 26 44         33 44 55        
+ 39 42 49          4 14 16          9 20 39          1 17 35        
+
+   WEEK 21           WEEK 22           WEEK 23           WEEK 24        
+  9 33 47         26 38 40          5 24 42         16 36 48        
+ 22 37 52          6 13 44          9 31 41         11 41 56        
+ 14 17 31          4 27 43         39 46 51          5  7 35        
+ 28 35 58          0 18 56          8 13 59         20 42 57        
+ 16 39 56         12 19 29         26 37 57          9 23 59        
+  7 12 51         28 31 49         20 32 50          4  8 18        
+ 27 53 57         21 23 54          0 33 36          0  1 52        
+  0 11 21          2  9 30          1 19 49         33 43 50        
+  5 13 50          7 33 52          4  6 34         19 22 55        
+ 40 44 48          1 41 58         11 28 55         21 25 40        
+ 15 26 36         16 35 59         27 29 40          3  6 10        
+  2 29 59         42 50 53         15 23 25         17 37 54        
+  4 10 45         10 11 14          3 12 45         32 39 47        
+  3 18 55         24 25 47          2 10 58         28 29 53        
+ 25 32 49         15 20 37          7 16 17         30 38 51        
+  6 42 54          3 39 48         14 35 52         14 26 27        
+  8 19 38         32 45 55         18 22 53         15 44 45        
+ 34 41 46         17 22 57         30 47 56         24 46 58        
+  1 23 43          8 36 46         21 43 48          2 31 34        
+ 20 24 30          5 34 51         38 44 54         12 13 49        
+
+   WEEK 25        
+  0 26 32        
+ 46 54 57        
+  4 38 52        
+ 18 23 29        
+ 10 15 55        
+ 11 17 45        
+ 14 20 22        
+  6 33 53        
+  1  9 50        
+  3 24 44        
+ 12 21 41        
+ 19 30 36        
+ 28 47 51        
+ 16 27 34        
+  8 35 49        
+ 13 40 58        
+  5 37 56        
+  2  7 43        
+ 25 39 59        
+ 31 42 48        
+
+CURRENT EVAL = 0
+CONFLICT MATRIX : 
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 0|  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+ 1|  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  0
+ 2|  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  1  1  1  1  1  1  1  1  1
+ 3|  0  1  0  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1
+ 4|  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1
+ 5|  1  1  1  1  0  0  1  1  0  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  0  1  1
+ 6|  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  0  0
+ 7|  1  0  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  0  1  1  0  1  1  1
+ 8|  0  0  1  1  1  0  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1
+ 9|  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1
+10|  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+11|  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1
+12|  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  0  1  0  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1
+13|  1  1  1  0  1  1  1  0  1  1  1  1  1  0  0  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1
+14|  1  1  1  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  0  1  0  1  1  0  1  0  1  1  1  1  1  1  0  1  1  1  1
+15|  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  0  0  1  1  1  1  0  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+16|  1  1  0  1  1  1  0  1  1  0  1  1  1  0  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1
+17|  0  1  1  1  1  0  1  1  0  0  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1
+18|  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  0  1  0  0  0  1  0  1  1  1  1  1  1  1  1  1
+19|  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  0  0  1  1  1  1  1  1  0  1  0  0  1  1
+20|  1  1  1  1  0  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0
+21|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  0  0  1  0  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0
+22|  1  0  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1
+23|  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  0  0  0  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1
+24|  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1
+25|  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1
+26|  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+27|  1  1  0  0  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+28|  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0
+29|  0  1  1  0  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  1  0  0  0  1  1  1  1  1  1  1
+30|  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  0  1  1  1  1  1  0  0  1  1  1  1  1  1
+31|  0  1  1  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  0  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+32|  1  1  1  1  1  0  1  1  1  0  1  1  0  0  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+33|  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  0  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  1  1
+34|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  0  1  0  1  1  1  1  0  1  1  1  1  1  1  0  1  1  0  1  0  1  1  0  1  1
+35|  1  1  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1
+36|  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  0  0  1  1  0  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1
+37|  0  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1
+38|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1
+39|  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  0  0  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+40|  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  0  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1
+41|  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  0
+42|  1  0  1  1  0  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  0  1
+43|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  0  1  0  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1
+44|  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  0  1  0  1  1  0  1  1  1  1  1  1  1  1  1  1
+45|  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  0  1  1  1  0  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+46|  1  0  1  1  1  1  1  1  1  0  0  1  1  1  0  1  1  1  0  0  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+47|  1  1  0  0  1  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1
+48|  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  0  0  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  0  1
+49|  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  0  0  1  1  1  1  1  0  1  1  0  1
+50|  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  0  0  1  1
+51|  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  0
+52|  1  1  1  1  1  0  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  0  1  1  1  0  1  1  1  1  1  0  1  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1
+53|  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  0  1
+54|  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  0  0  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  0  1  0  1  1  0
+55|  0  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  0  1  1  1  1  1  0  0  1  1  1
+56|  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  0  0  0  1  1  1
+57|  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  0  1  0
+58|  1  1  1  1  1  1  0  1  1  0  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  0  0  1  1  1  0  1  1  1  1  0  1
+59|  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  0  0  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  0  1  1  0  1  1  0  1  0
+
+
+Tabu search finished
+RUNTIME  = 4.3393 sec.
+ITERATIONS: 298
